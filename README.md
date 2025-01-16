@@ -3,6 +3,8 @@
 ## Overview
 Domain Squatting Generator is a powerful Python tool designed to help security researchers, penetration testers, and cybersecurity professionals understand and analyze potential domain squatting vulnerabilities.
 
+![image](https://github.com/user-attachments/assets/26e35d19-88db-4c0c-8dcd-05b05a21c7fe)
+
 ## 🚀 Features
 
 ### Domain Generation Techniques
