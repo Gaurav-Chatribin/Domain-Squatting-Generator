@@ -40,22 +40,23 @@ pip install -r requirements.txt
 4. Usage
 python domain_squatting.py
 ```
-🔍 Domain Status Explained
-Registered: Domain is already owned
-AVAILABLE: Domain can be registered
-Invalid Domain: Does not meet domain format requirements
-⚠️ Ethical Considerations
+## 🔍 Domain Status Explained
+- Registered: Domain is already owned
+- AVAILABLE: Domain can be registered
+- Invalid Domain: Does not meet domain format requirements
+
+## ⚠️ Ethical Considerations
 This tool is for educational and research purposes. Always ensure you have proper authorization before testing domains.
 
-🤝 Contributing
-Fork the repository
-Create your feature branch
-Commit your changes
-Push to the branch
-Create a new Pull Request
+## 🤝 Contributing
+- Fork the repository
+- Create your feature branch
+- Commit your changes
+- Push to the branch
+- Create a new Pull Request
 
-📄 License
+## 📄 License
 [Choose an appropriate license, e.g., MIT License]
 
-🛡️ Disclaimer
+## 🛡️ Disclaimer
 Use responsibly and only on domains you own or have explicit permission to test.
