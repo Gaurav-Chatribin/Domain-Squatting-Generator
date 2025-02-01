@@ -57,8 +57,5 @@ This tool is for educational and research purposes. Always ensure you have prope
 - Push to the branch
 - Create a new Pull Request
 
-## 📄 License
-[Choose an appropriate license, e.g., MIT License]
-
 ## 🛡️ Disclaimer
 Use responsibly and only on domains you own or have explicit permission to test.
